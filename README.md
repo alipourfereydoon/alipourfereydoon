@@ -1,6 +1,8 @@
 
 - 👀 I’m interested in web developer
 - 🌱 I’m currently master student (computer engineering)
+- <h4>LinkedIn: https://www.linkedin.com/in/ali-pourfereydoon-13337a2aa</h4>
+ <h4>Kaggle: https://www.kaggle.com/ali2298637611</h4>
 
 <!---
 alipourfereydoon/alipourfereydoon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
