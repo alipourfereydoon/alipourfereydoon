@@ -5,6 +5,8 @@
 <h4>Kaggle: https://www.kaggle.com/ali2298637611</h4>
 <h4>StackOverflow:https://stackoverflow.com/users/23201976/ali-pourfereydoon</h4>
 <h4>DEV:https://dev.to/alipourfereydoon</h4>
+<h4>CodePen:https://codepen.io/alipourfereydoon</h4>
+<h4>Frontend Mentor:https://www.frontendmentor.io/profile/alipourfereydoon</h4>
 <a href="https://stackoverflow.com/users/23201976/ali-pourfereydoon">
   <img src="https://img.shields.io/badge/StackOverflow-Visit_Profile-F58025?logo=stackoverflow">
 </a>
