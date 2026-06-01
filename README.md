@@ -1,7 +1,7 @@
 
 - 👀 I’m interested in web developer
 - 🌱 I’m currently master student (computer engineering)
-- <h4>LinkedIn: https://www.linkedin.com/in/ali-pourfereydoon-13337a2aa</h4>
+ <h4>LinkedIn: https://www.linkedin.com/in/ali-pourfereydoon-13337a2aa</h4>
  <h4>Kaggle: https://www.kaggle.com/ali2298637611</h4>
 
 <h4>StackOverflow:https://stackoverflow.com/users/23201976/ali-pourfereydoon</h4>
@@ -38,19 +38,19 @@ You can click the Preview link to take a look at your changes.
 <p><a href="https://getbootstrap.com" target="_blank">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="45" height="45"/></a> </p>
 
-<a href="https://www.w3schools.com/css/" target="_blank">
+-<a href="https://www.w3schools.com/css/" target="_blank">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="45" height="45"/>
 </a>
 
-<a href="https://www.djangoproject.com/" target="_blank">
+-<a href="https://www.djangoproject.com/" target="_blank">
 <img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="45" height="45"/>
 </a>
 
-<a href="https://www.docker.com/" target="_blank">
+-<a href="https://www.docker.com/" target="_blank">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="45" height="45"/>
 </a>
 
-<a href="https://www.figma.com/" target="_blank">
+-<a href="https://www.figma.com/" target="_blank">
 <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="45" height="45"/>
 </a>
 
