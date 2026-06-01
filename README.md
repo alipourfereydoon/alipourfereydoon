@@ -3,8 +3,10 @@
 - 🌱 I’m currently master student (computer engineering)
 - <h4>LinkedIn: https://www.linkedin.com/in/ali-pourfereydoon-13337a2aa</h4>
  <h4>Kaggle: https://www.kaggle.com/ali2298637611</h4>
- [![Stack Overflow](https://img.shields.io/badge/StackOverflow-Profile-orange?logo=stackoverflow)](https://stackoverflow.com/users/23201976/ali-pourfereydoon)
 
+<a href="https://stackoverflow.com/users/23201976/ali-pourfereydoon">
+  <img src="https://img.shields.io/badge/StackOverflow-Visit_Profile-F58025?logo=stackoverflow">
+</a>
 <!---
 alipourfereydoon/alipourfereydoon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
