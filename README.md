@@ -72,22 +72,8 @@ You can click the Preview link to take a look at your changes.
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=alipourfereydoon)
 
-
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alipourfereydoon&show_icons=true&locale=en&layout=compact" alt="alipourfereydoon" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alipourfereydoon&show_icons=true&locale=en" alt="alipourfereydoon" /></p>
 
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alipourfereydoon&layout=compact&theme=radical" />
-</p>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alipourfereydoon&layout=compact&theme=tokyonight)
-
-
-
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alipourfereydoon&layout=compact&theme=radical)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alipourfereydoon&show_icons=true&theme=radical)
