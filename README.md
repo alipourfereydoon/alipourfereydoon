@@ -36,9 +36,7 @@ You can click the Preview link to take a look at your changes.
    style="display:flex;
           flex-wrap:wrap;
           gap:18px;
-          max-width:520px;">
-
-<p><a href="https://getbootstrap.com" target="_blank">
+          max-width:520px;"><a href="https://getbootstrap.com" target="_blank">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="45" height="45"/></a> </p>
 
 -<a href="https://www.w3schools.com/css/" target="_blank">
@@ -88,10 +86,8 @@ You can click the Preview link to take a look at your changes.
 <a href="https://www.sqlite.org/" target="_blank">
 <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" width="45" height="45"/>
 </a>
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=alipourfereydoon)
-
 </p>
-
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=alipourfereydoon)
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alipourfereydoon&show_icons=true&locale=en&layout=compact" alt="alipourfereydoon" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alipourfereydoon&show_icons=true&locale=en" alt="alipourfereydoon" /></p>
