@@ -82,3 +82,5 @@ You can click the Preview link to take a look at your changes.
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alipourfereydoon&layout=compact&theme=radical" />
 </p>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alipourfereydoon&layout=compact&theme=tokyonight)
