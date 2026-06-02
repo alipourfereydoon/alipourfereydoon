@@ -67,13 +67,6 @@ You can click the Preview link to take a look at your changes.
 <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
 
 </p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alipourfereydoon&" alt="alipourfereydoon" /></p>
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=alipourfereydoon)
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alipourfereydoon&show_icons=true&locale=en&layout=compact" alt="alipourfereydoon" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alipourfereydoon&show_icons=true&locale=en" alt="alipourfereydoon" /></p>
-
-
