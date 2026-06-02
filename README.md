@@ -37,7 +37,7 @@ You can click the Preview link to take a look at your changes.
           flex-wrap:wrap;
           gap:18px;
           max-width:520px;"><a href="https://getbootstrap.com" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="45" height="45"/></a> </p>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="45" height="45"/></a> 
 
 -<a href="https://www.w3schools.com/css/" target="_blank">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="45" height="45"/>
@@ -94,4 +94,3 @@ You can click the Preview link to take a look at your changes.
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alipourfereydoon&" alt="alipourfereydoon" /></p>
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=alipourfereydoon)
-![GitHub Streak](https://streak-stats.demolab.com/?user=alipourfereydoon)
