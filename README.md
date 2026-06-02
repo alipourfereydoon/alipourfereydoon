@@ -1,4 +1,4 @@
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=https://github.com/alipourfereydoon)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=alipourfereydoon)
 - 👀 I’m interested in web developer
 - 🌱 I’m currently master student (computer engineering)
 <h4>LinkedIn: https://www.linkedin.com/in/ali-pourfereydoon-13337a2aa</h4>
