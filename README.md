@@ -1,4 +1,3 @@
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=alipourfereydoon)
 - 👀 I’m interested in web developer
 - 🌱 I’m currently master student (computer engineering)
 <h4>LinkedIn: https://www.linkedin.com/in/ali-pourfereydoon-13337a2aa</h4>
@@ -89,6 +88,7 @@ You can click the Preview link to take a look at your changes.
 <a href="https://www.sqlite.org/" target="_blank">
 <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" width="45" height="45"/>
 </a>
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=alipourfereydoon)
 
 </p>
 
