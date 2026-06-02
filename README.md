@@ -94,3 +94,4 @@ You can click the Preview link to take a look at your changes.
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alipourfereydoon&" alt="alipourfereydoon" /></p>
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=alipourfereydoon)
+![GitHub Streak](https://streak-stats.demolab.com/?user=USERNAME)
