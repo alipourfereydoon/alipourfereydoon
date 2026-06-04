@@ -1,21 +1,21 @@
 - 👀 I’m interested in web developer
 - 🌱 I’m currently master student (computer engineering)
-<h4><a href="https://stackoverflow.com/users/23201976/ali-pourfereydoon">
+<h4><a href="https://www.linkedin.com/in/ali-pourfereydoon-13337a2aa">
   <img src="https://img.shields.io/badge/StackOverflow-Visit_Profile-F58025?logo=stackoverflow">LinkedIn: https://www.linkedin.com/in/ali-pourfereydoon-13337a2aa</h4>
-<h4><a href="https://stackoverflow.com/users/23201976/ali-pourfereydoon">
+<h4><a href="https://www.kaggle.com/ali2298637611">
   <img src="https://img.shields.io/badge/StackOverflow-Visit_Profile-F58025?logo=stackoverflow">Kaggle: https://www.kaggle.com/ali2298637611</h4>
 <h4><a href="https://stackoverflow.com/users/23201976/ali-pourfereydoon">
   <img src="https://img.shields.io/badge/StackOverflow-Visit_Profile-F58025?logo=stackoverflow">
 </a>StackOverflow:https://stackoverflow.com/users/23201976/ali-pourfereydoon</h4> 
-<h4><a href="https://stackoverflow.com/users/23201976/ali-pourfereydoon">
+<h4><a href="https://dev.to/alipourfereydoon">
   <img src="https://img.shields.io/badge/StackOverflow-Visit_Profile-F58025?logo=stackoverflow">DEV:https://dev.to/alipourfereydoon</h4>
-<h4><a href="https://stackoverflow.com/users/23201976/ali-pourfereydoon">
+<h4><a href="https://codepen.io/alipourfereydoon">
   <img src="https://img.shields.io/badge/StackOverflow-Visit_Profile-F58025?logo=stackoverflow">CodePen:https://codepen.io/alipourfereydoon</h4>
-<h4><a href="https://stackoverflow.com/users/23201976/ali-pourfereydoon">
+<h4><a href="https://www.frontendmentor.io/profile/alipourfereydoon">
   <img src="https://img.shields.io/badge/StackOverflow-Visit_Profile-F58025?logo=stackoverflow">Frontend Mentor:https://www.frontendmentor.io/profile/alipourfereydoon</h4>
-<h4><a href="https://stackoverflow.com/users/23201976/ali-pourfereydoon">
+<h4><a href="https://leetcode.com/u/alipourfereydoon">
   <img src="https://img.shields.io/badge/StackOverflow-Visit_Profile-F58025?logo=stackoverflow">leetcode:https://leetcode.com/u/alipourfereydoon/</h4>
-<h4><a href="https://stackoverflow.com/users/23201976/ali-pourfereydoon">
+<h4><a href="https://pypi.org/user/ali.pourferydoon1983/">
   <img src="https://img.shields.io/badge/StackOverflow-Visit_Profile-F58025?logo=stackoverflow">pypi:https://pypi.org/user/ali.pourferydoon1983/</h4>
 
 <!---
