@@ -3,20 +3,21 @@
 <h4><a href="https://www.linkedin.com/in/ali-pourfereydoon-13337a2aa">
  <img src="https://img.shields.io/badge/LinkedIn-Visit_Profile-0A66C2?logo=linkedin&logoColor=white">       LinkedIn: https://www.linkedin.com/in/ali-pourfereydoon-13337a2aa</h4>
 <h4><a href="https://www.kaggle.com/ali2298637611">
-  <img src="https://img.shields.io/badge/StackOverflow-Visit_Profile-F58025?logo=stackoverflow">Kaggle: https://www.kaggle.com/ali2298637611</h4>
+  <img src="https://img.shields.io/badge/Kaggle-Visit_Profile-20BEFF?logo=kaggle&logoColor=white">Kaggle: https://www.kaggle.com/ali2298637611</h4>
 <h4><a href="https://stackoverflow.com/users/23201976/ali-pourfereydoon">
   <img src="https://img.shields.io/badge/StackOverflow-Visit_Profile-F58025?logo=stackoverflow">
 </a>StackOverflow:https://stackoverflow.com/users/23201976/ali-pourfereydoon</h4> 
 <h4><a href="https://dev.to/alipourfereydoon">
-  <img src="https://img.shields.io/badge/StackOverflow-Visit_Profile-F58025?logo=stackoverflow">DEV:https://dev.to/alipourfereydoon</h4>
+  <img src="https://img.shields.io/badge/Dev.to-Visit_Profile-0A0A0A?logo=devdotto&logoColor=white"> DEV:https://dev.to/alipourfereydoon</h4>
 <h4><a href="https://codepen.io/alipourfereydoon">
-  <img src="https://img.shields.io/badge/StackOverflow-Visit_Profile-F58025?logo=stackoverflow">CodePen:https://codepen.io/alipourfereydoon</h4>
+  <img src="https://img.shields.io/badge/CodePen-Visit_Profile-000000?logo=codepen&logoColor=white">CodePen:https://codepen.io/alipourfereydoon</h4>
 <h4><a href="https://www.frontendmentor.io/profile/alipourfereydoon">
-  <img src="https://img.shields.io/badge/StackOverflow-Visit_Profile-F58025?logo=stackoverflow">Frontend Mentor:https://www.frontendmentor.io/profile/alipourfereydoon</h4>
+ <img src="https://img.shields.io/badge/Frontend_Mentor-Visit_Profile-3F54A3?logo=frontendmentor&logoColor=white">     Frontend Mentor:https://www.frontendmentor.io/profile/alipourfereydoon</h4>
 <h4><a href="https://leetcode.com/u/alipourfereydoon">
-  <img src="https://img.shields.io/badge/StackOverflow-Visit_Profile-F58025?logo=stackoverflow">leetcode:https://leetcode.com/u/alipourfereydoon/</h4>
+ <img src="https://img.shields.io/badge/LeetCode-Visit_Profile-FFA116?logo=leetcode&logoColor=white">
+   leetcode:https://leetcode.com/u/alipourfereydoon/</h4>
 <h4><a href="https://pypi.org/user/ali.pourferydoon1983/">
-  <img src="https://img.shields.io/badge/StackOverflow-Visit_Profile-F58025?logo=stackoverflow">pypi:https://pypi.org/user/ali.pourferydoon1983/</h4>
+<img src="https://img.shields.io/badge/PyPI-Visit_Profile-3775A9?logo=pypi&logoColor=white">       pypi:https://pypi.org/user/ali.pourferydoon1983/</h4>
 
 <!---
 alipourfereydoon/alipourfereydoon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
