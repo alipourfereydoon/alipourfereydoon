@@ -1,7 +1,7 @@
 - 👀 I’m interested in web developer
 - 🌱 I’m currently master student (computer engineering)
 <h4><a href="https://www.linkedin.com/in/ali-pourfereydoon-13337a2aa">
-  <img src="https://img.shields.io/badge/linkedin-Visit_Profile-F58025?logo=stackoverflow">LinkedIn: https://www.linkedin.com/in/ali-pourfereydoon-13337a2aa</h4>
+ <img src="https://img.shields.io/badge/LinkedIn-Visit_Profile-0A66C2?logo=linkedin&logoColor=white">       LinkedIn: https://www.linkedin.com/in/ali-pourfereydoon-13337a2aa</h4>
 <h4><a href="https://www.kaggle.com/ali2298637611">
   <img src="https://img.shields.io/badge/StackOverflow-Visit_Profile-F58025?logo=stackoverflow">Kaggle: https://www.kaggle.com/ali2298637611</h4>
 <h4><a href="https://stackoverflow.com/users/23201976/ali-pourfereydoon">
