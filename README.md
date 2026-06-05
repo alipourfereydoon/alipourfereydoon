@@ -41,51 +41,22 @@ You can click the Preview link to take a look at your changes.
 <h3 align="left">Languages & Tools</h3>
 
 <p align="left">
-
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-
 <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
-
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-
 <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-
 <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-
 <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
-
 <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
-
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
-
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-
 <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-
 <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Research-Scientist-blue?style=for-the-badge&logo=academia">
-
-<img src="https://img.shields.io/badge/Artificial_Intelligence-Engineer-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">
-
-<img src="https://img.shields.io/badge/Django-Developer-092E20?style=for-the-badge&logo=django&logoColor=white">
-
-<img src="https://img.shields.io/badge/Python-Developer-3776AB?style=for-the-badge&logo=python&logoColor=white">
-
-<img src="https://img.shields.io/badge/Open_Source-Contributor-3DA639?style=for-the-badge&logo=opensourceinitiative&logoColor=white">
-
-<img src="https://img.shields.io/badge/Optimization-Algorithms-FF5722?style=for-the-badge">
-
 </p>
 
 <p align="center">
@@ -95,6 +66,7 @@ You can click the Preview link to take a look at your changes.
 <img src="https://img.shields.io/badge/Django-Developer-092E20?style=for-the-badge&logo=django&logoColor=white">
 <img src="https://img.shields.io/badge/Open_Source-Contributor-3DA639?style=for-the-badge&logo=opensourceinitiative&logoColor=white">
 <img src="https://img.shields.io/badge/Quantum-Computing-00ACC1?style=for-the-badge">
+ <img src="https://img.shields.io/badge/Optimization-Algorithms-FF5722?style=for-the-badge">
 </p>
 
 
