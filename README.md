@@ -1,6 +1,5 @@
 - 👀 I’m interested in web developer
 - 🌱 I’m currently master student (computer engineering)
-- <img src="https://img.shields.io/badge/Research-Scientist-blue?style=for-the-badge&logo=academia">
 <h4><a href="https://www.linkedin.com/in/ali-pourfereydoon-13337a2aa">
  <img src="https://img.shields.io/badge/LinkedIn-Visit_Profile-0A66C2?logo=linkedin&logoColor=white">       LinkedIn: https://www.linkedin.com/in/ali-pourfereydoon-13337a2aa</h4>
 <h4><a href="https://www.kaggle.com/ali2298637611">
@@ -75,7 +74,30 @@ You can click the Preview link to take a look at your changes.
 
 <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
 
+<img src="https://img.shields.io/badge/Research-Scientist-blue?style=for-the-badge&logo=academia">
+
+<img src="https://img.shields.io/badge/Artificial_Intelligence-Engineer-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">
+
+<img src="https://img.shields.io/badge/Django-Developer-092E20?style=for-the-badge&logo=django&logoColor=white">
+
+<img src="https://img.shields.io/badge/Python-Developer-3776AB?style=for-the-badge&logo=python&logoColor=white">
+
+<img src="https://img.shields.io/badge/Open_Source-Contributor-3DA639?style=for-the-badge&logo=opensourceinitiative&logoColor=white">
+
+<img src="https://img.shields.io/badge/Optimization-Algorithms-FF5722?style=for-the-badge">
+
 </p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/Research-Scientist-blue?style=for-the-badge&logo=academia">
+<img src="https://img.shields.io/badge/AI-Engineer-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">
+<img src="https://img.shields.io/badge/Python-Developer-3776AB?style=for-the-badge&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/Django-Developer-092E20?style=for-the-badge&logo=django&logoColor=white">
+<img src="https://img.shields.io/badge/Open_Source-Contributor-3DA639?style=for-the-badge&logo=opensourceinitiative&logoColor=white">
+<img src="https://img.shields.io/badge/Quantum-Computing-00ACC1?style=for-the-badge">
+</p>
+
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alipourfereydoon&" alt="alipourfereydoon" /></p>
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=alipourfereydoon)
