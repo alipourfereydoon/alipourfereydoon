@@ -1,5 +1,6 @@
 - 👀 I’m interested in web developer
 - 🌱 I’m currently master student (computer engineering)
+- <img src="https://img.shields.io/badge/Research-Scientist-blue?style=for-the-badge&logo=academia">
 <h4><a href="https://www.linkedin.com/in/ali-pourfereydoon-13337a2aa">
  <img src="https://img.shields.io/badge/LinkedIn-Visit_Profile-0A66C2?logo=linkedin&logoColor=white">       LinkedIn: https://www.linkedin.com/in/ali-pourfereydoon-13337a2aa</h4>
 <h4><a href="https://www.kaggle.com/ali2298637611">
